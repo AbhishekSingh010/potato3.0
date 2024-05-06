@@ -1,0 +1,258 @@
+2024-05-07 00:19:19,096 - INFO - main function started in main.py file
+2024-05-07 00:19:22,779 - INFO - hompage get called
+2024-05-07 00:19:34,240 - INFO - main function started in main.py file
+2024-05-07 00:19:34,243 - INFO - model trainer get  called
+2024-05-07 00:19:34,243 - INFO - main function started in main.py file
+2024-05-07 00:19:34,243 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:19:35,555 - INFO - classname method getting called in src/dataimporter
+2024-05-07 00:19:35,571 - INFO - data importer called compeleted from data_preprocessing
+2024-05-07 00:19:35,571 - INFO - get_dataset_partition_tf function get called in src/data_preprocessing.py
+2024-05-07 00:19:35,587 - INFO - function execution compeleted returning trainining datset of length 52 
+ and validation datset of length 6 
+ and test datset of length 8
+2024-05-07 00:19:35,587 - INFO - get_dataset_partition_tf called compelted from data_preprocessing
+2024-05-07 00:19:35,587 - INFO - data tuning get started inside preprocess method under file src/preprocess
+2024-05-07 00:19:47,147 - INFO - main function started in main.py file
+2024-05-07 00:19:47,147 - INFO - model trainer get  called
+2024-05-07 00:19:47,160 - INFO - main function started in main.py file
+2024-05-07 00:19:47,162 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:19:47,798 - INFO - classname method getting called in src/dataimporter
+2024-05-07 00:19:47,819 - INFO - data importer called compeleted from data_preprocessing
+2024-05-07 00:19:47,819 - INFO - get_dataset_partition_tf function get called in src/data_preprocessing.py
+2024-05-07 00:19:47,831 - INFO - function execution compeleted returning trainining datset of length 52 
+ and validation datset of length 6 
+ and test datset of length 8
+2024-05-07 00:19:47,831 - INFO - get_dataset_partition_tf called compelted from data_preprocessing
+2024-05-07 00:19:47,831 - INFO - data tuning get started inside preprocess method under file src/preprocess
+2024-05-07 00:19:47,880 - INFO - model training started
+2024-05-07 00:19:47,940 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:19:48,524 - INFO - classname method getting called in src/dataimporter
+2024-05-07 00:19:49,545 - INFO - model summary is<bound method Model.summary of <keras.src.engine.sequential.Sequential object at 0x00000190024ABE50>>
+2024-05-07 00:40:31,079 - INFO - Model saved in h5 format
+2024-05-07 00:41:15,610 - INFO - main function started in main.py file
+2024-05-07 00:41:15,610 - INFO - model-help monitor get called
+2024-05-07 00:41:15,610 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:41:16,222 - INFO - data importer called compeleted from data_preprocessing
+2024-05-07 00:41:16,222 - INFO - get_dataset_partition_tf function get called in src/data_preprocessing.py
+2024-05-07 00:41:16,238 - INFO - function execution compeleted returning trainining datset of length 52 
+ and validation datset of length 6 
+ and test datset of length 8
+2024-05-07 00:41:16,238 - INFO - get_dataset_partition_tf called compelted from data_preprocessing
+2024-05-07 00:41:16,238 - INFO - data tuning get started inside preprocess method under file src/preprocess
+2024-05-07 00:45:38,774 - INFO - main function started in main.py file
+2024-05-07 00:45:38,774 - INFO - main function started in main.py file
+2024-05-07 00:45:38,790 - INFO - model-help monitor get called
+2024-05-07 00:45:38,790 - INFO - model-help monitor get called
+2024-05-07 00:45:38,790 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:45:38,790 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:45:39,365 - INFO - data importer called compeleted from data_preprocessing
+2024-05-07 00:45:39,365 - INFO - data importer called compeleted from data_preprocessing
+2024-05-07 00:45:39,365 - INFO - get_dataset_partition_tf function get called in src/data_preprocessing.py
+2024-05-07 00:45:39,365 - INFO - get_dataset_partition_tf function get called in src/data_preprocessing.py
+2024-05-07 00:45:39,376 - INFO - function execution compeleted returning trainining datset of length 52 
+ and validation datset of length 6 
+ and test datset of length 8
+2024-05-07 00:45:39,376 - INFO - function execution compeleted returning trainining datset of length 52 
+ and validation datset of length 6 
+ and test datset of length 8
+2024-05-07 00:45:39,376 - INFO - get_dataset_partition_tf called compelted from data_preprocessing
+2024-05-07 00:45:39,376 - INFO - get_dataset_partition_tf called compelted from data_preprocessing
+2024-05-07 00:45:39,376 - INFO - data tuning get started inside preprocess method under file src/preprocess
+2024-05-07 00:45:39,376 - INFO - data tuning get started inside preprocess method under file src/preprocess
+2024-05-07 00:45:56,856 - INFO - main function started in main.py file
+2024-05-07 00:45:56,856 - INFO - main function started in main.py file
+2024-05-07 00:45:56,857 - INFO - model trainer get  called
+2024-05-07 00:45:56,857 - INFO - model trainer get  called
+2024-05-07 00:45:56,867 - INFO - main function started in main.py file
+2024-05-07 00:45:56,867 - INFO - main function started in main.py file
+2024-05-07 00:45:56,867 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:45:56,867 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:45:57,421 - INFO - classname method getting called in src/dataimporter
+2024-05-07 00:45:57,421 - INFO - classname method getting called in src/dataimporter
+2024-05-07 00:45:57,454 - INFO - data importer called compeleted from data_preprocessing
+2024-05-07 00:45:57,454 - INFO - data importer called compeleted from data_preprocessing
+2024-05-07 00:45:57,468 - INFO - get_dataset_partition_tf function get called in src/data_preprocessing.py
+2024-05-07 00:45:57,468 - INFO - get_dataset_partition_tf function get called in src/data_preprocessing.py
+2024-05-07 00:45:57,468 - INFO - function execution compeleted returning trainining datset of length 52 
+ and validation datset of length 6 
+ and test datset of length 8
+2024-05-07 00:45:57,468 - INFO - function execution compeleted returning trainining datset of length 52 
+ and validation datset of length 6 
+ and test datset of length 8
+2024-05-07 00:45:57,468 - INFO - get_dataset_partition_tf called compelted from data_preprocessing
+2024-05-07 00:45:57,468 - INFO - get_dataset_partition_tf called compelted from data_preprocessing
+2024-05-07 00:45:57,468 - INFO - data tuning get started inside preprocess method under file src/preprocess
+2024-05-07 00:45:57,468 - INFO - data tuning get started inside preprocess method under file src/preprocess
+2024-05-07 00:46:01,567 - INFO - main function started in main.py file
+2024-05-07 00:46:01,567 - INFO - main function started in main.py file
+2024-05-07 00:46:01,567 - INFO - model trainer get  called
+2024-05-07 00:46:01,567 - INFO - model trainer get  called
+2024-05-07 00:46:01,567 - INFO - main function started in main.py file
+2024-05-07 00:46:01,567 - INFO - main function started in main.py file
+2024-05-07 00:46:01,584 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:46:01,584 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:46:02,092 - INFO - classname method getting called in src/dataimporter
+2024-05-07 00:46:02,092 - INFO - classname method getting called in src/dataimporter
+2024-05-07 00:46:02,122 - INFO - data importer called compeleted from data_preprocessing
+2024-05-07 00:46:02,122 - INFO - data importer called compeleted from data_preprocessing
+2024-05-07 00:46:02,122 - INFO - get_dataset_partition_tf function get called in src/data_preprocessing.py
+2024-05-07 00:46:02,122 - INFO - get_dataset_partition_tf function get called in src/data_preprocessing.py
+2024-05-07 00:46:02,138 - INFO - function execution compeleted returning trainining datset of length 52 
+ and validation datset of length 6 
+ and test datset of length 8
+2024-05-07 00:46:02,138 - INFO - function execution compeleted returning trainining datset of length 52 
+ and validation datset of length 6 
+ and test datset of length 8
+2024-05-07 00:46:02,138 - INFO - get_dataset_partition_tf called compelted from data_preprocessing
+2024-05-07 00:46:02,138 - INFO - get_dataset_partition_tf called compelted from data_preprocessing
+2024-05-07 00:46:02,138 - INFO - data tuning get started inside preprocess method under file src/preprocess
+2024-05-07 00:46:02,138 - INFO - data tuning get started inside preprocess method under file src/preprocess
+2024-05-07 00:46:05,895 - INFO - main function started in main.py file
+2024-05-07 00:46:05,895 - INFO - main function started in main.py file
+2024-05-07 00:46:05,899 - INFO - model trainer get  called
+2024-05-07 00:46:05,899 - INFO - model trainer get  called
+2024-05-07 00:46:05,904 - INFO - main function started in main.py file
+2024-05-07 00:46:05,904 - INFO - main function started in main.py file
+2024-05-07 00:46:05,907 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:46:05,907 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:46:06,455 - INFO - classname method getting called in src/dataimporter
+2024-05-07 00:46:06,455 - INFO - classname method getting called in src/dataimporter
+2024-05-07 00:46:06,486 - INFO - data importer called compeleted from data_preprocessing
+2024-05-07 00:46:06,486 - INFO - data importer called compeleted from data_preprocessing
+2024-05-07 00:46:06,486 - INFO - get_dataset_partition_tf function get called in src/data_preprocessing.py
+2024-05-07 00:46:06,486 - INFO - get_dataset_partition_tf function get called in src/data_preprocessing.py
+2024-05-07 00:46:06,505 - INFO - function execution compeleted returning trainining datset of length 52 
+ and validation datset of length 6 
+ and test datset of length 8
+2024-05-07 00:46:06,505 - INFO - function execution compeleted returning trainining datset of length 52 
+ and validation datset of length 6 
+ and test datset of length 8
+2024-05-07 00:46:06,505 - INFO - get_dataset_partition_tf called compelted from data_preprocessing
+2024-05-07 00:46:06,505 - INFO - get_dataset_partition_tf called compelted from data_preprocessing
+2024-05-07 00:46:06,505 - INFO - data tuning get started inside preprocess method under file src/preprocess
+2024-05-07 00:46:06,505 - INFO - data tuning get started inside preprocess method under file src/preprocess
+2024-05-07 00:46:06,534 - INFO - model training started
+2024-05-07 00:46:06,534 - INFO - model training started
+2024-05-07 00:46:06,566 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:46:06,566 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:46:07,059 - INFO - classname method getting called in src/dataimporter
+2024-05-07 00:46:07,059 - INFO - classname method getting called in src/dataimporter
+2024-05-07 00:46:07,973 - INFO - model summary is<bound method Model.summary of <keras.src.engine.sequential.Sequential object at 0x000001900389A1D0>>
+2024-05-07 00:46:07,973 - INFO - model summary is<bound method Model.summary of <keras.src.engine.sequential.Sequential object at 0x000001900389A1D0>>
+2024-05-07 00:51:24,060 - INFO - main function started in main.py file
+2024-05-07 00:51:24,060 - INFO - main function started in main.py file
+2024-05-07 00:51:24,060 - INFO - main function started in main.py file
+2024-05-07 00:51:24,064 - INFO - model trainer get  called
+2024-05-07 00:51:24,064 - INFO - model trainer get  called
+2024-05-07 00:51:24,064 - INFO - model trainer get  called
+2024-05-07 00:51:24,069 - INFO - main function started in main.py file
+2024-05-07 00:51:24,069 - INFO - main function started in main.py file
+2024-05-07 00:51:24,069 - INFO - main function started in main.py file
+2024-05-07 00:51:24,076 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:51:24,076 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:51:24,076 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:51:24,740 - INFO - classname method getting called in src/dataimporter
+2024-05-07 00:51:24,740 - INFO - classname method getting called in src/dataimporter
+2024-05-07 00:51:24,740 - INFO - classname method getting called in src/dataimporter
+2024-05-07 00:51:24,792 - INFO - data importer called compeleted from data_preprocessing
+2024-05-07 00:51:24,792 - INFO - data importer called compeleted from data_preprocessing
+2024-05-07 00:51:24,792 - INFO - data importer called compeleted from data_preprocessing
+2024-05-07 00:51:24,803 - INFO - get_dataset_partition_tf function get called in src/data_preprocessing.py
+2024-05-07 00:51:24,803 - INFO - get_dataset_partition_tf function get called in src/data_preprocessing.py
+2024-05-07 00:51:24,803 - INFO - get_dataset_partition_tf function get called in src/data_preprocessing.py
+2024-05-07 00:51:24,819 - INFO - function execution compeleted returning trainining datset of length 52 
+ and validation datset of length 6 
+ and test datset of length 8
+2024-05-07 00:51:24,819 - INFO - function execution compeleted returning trainining datset of length 52 
+ and validation datset of length 6 
+ and test datset of length 8
+2024-05-07 00:51:24,819 - INFO - function execution compeleted returning trainining datset of length 52 
+ and validation datset of length 6 
+ and test datset of length 8
+2024-05-07 00:51:24,819 - INFO - get_dataset_partition_tf called compelted from data_preprocessing
+2024-05-07 00:51:24,819 - INFO - get_dataset_partition_tf called compelted from data_preprocessing
+2024-05-07 00:51:24,819 - INFO - get_dataset_partition_tf called compelted from data_preprocessing
+2024-05-07 00:51:24,819 - INFO - data tuning get started inside preprocess method under file src/preprocess
+2024-05-07 00:51:24,819 - INFO - data tuning get started inside preprocess method under file src/preprocess
+2024-05-07 00:51:24,819 - INFO - data tuning get started inside preprocess method under file src/preprocess
+2024-05-07 00:51:24,850 - INFO - model training started
+2024-05-07 00:51:24,850 - INFO - model training started
+2024-05-07 00:51:24,850 - INFO - model training started
+2024-05-07 00:51:24,898 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:51:24,898 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:51:24,898 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:51:25,510 - INFO - classname method getting called in src/dataimporter
+2024-05-07 00:51:25,510 - INFO - classname method getting called in src/dataimporter
+2024-05-07 00:51:25,510 - INFO - classname method getting called in src/dataimporter
+2024-05-07 00:51:26,411 - INFO - model summary is<bound method Model.summary of <keras.src.engine.sequential.Sequential object at 0x0000019013E18B50>>
+2024-05-07 00:51:26,411 - INFO - model summary is<bound method Model.summary of <keras.src.engine.sequential.Sequential object at 0x0000019013E18B50>>
+2024-05-07 00:51:26,411 - INFO - model summary is<bound method Model.summary of <keras.src.engine.sequential.Sequential object at 0x0000019013E18B50>>
+2024-05-07 00:53:55,605 - INFO - Model saved in h5 format
+2024-05-07 00:53:55,605 - INFO - Model saved in h5 format
+2024-05-07 00:53:55,605 - INFO - Model saved in h5 format
+2024-05-07 00:54:11,208 - INFO - main function started in main.py file
+2024-05-07 00:54:11,208 - INFO - main function started in main.py file
+2024-05-07 00:54:11,208 - INFO - main function started in main.py file
+2024-05-07 00:54:11,208 - INFO - model-help monitor get called
+2024-05-07 00:54:11,208 - INFO - model-help monitor get called
+2024-05-07 00:54:11,208 - INFO - model-help monitor get called
+2024-05-07 00:54:11,224 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:54:11,224 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:54:11,224 - INFO - data importer function called in src/dataimporter.py 
+2024-05-07 00:54:11,842 - INFO - data importer called compeleted from data_preprocessing
+2024-05-07 00:54:11,842 - INFO - data importer called compeleted from data_preprocessing
+2024-05-07 00:54:11,842 - INFO - data importer called compeleted from data_preprocessing
+2024-05-07 00:54:11,842 - INFO - get_dataset_partition_tf function get called in src/data_preprocessing.py
+2024-05-07 00:54:11,842 - INFO - get_dataset_partition_tf function get called in src/data_preprocessing.py
+2024-05-07 00:54:11,842 - INFO - get_dataset_partition_tf function get called in src/data_preprocessing.py
+2024-05-07 00:54:11,857 - INFO - function execution compeleted returning trainining datset of length 52 
+ and validation datset of length 6 
+ and test datset of length 8
+2024-05-07 00:54:11,857 - INFO - function execution compeleted returning trainining datset of length 52 
+ and validation datset of length 6 
+ and test datset of length 8
+2024-05-07 00:54:11,857 - INFO - function execution compeleted returning trainining datset of length 52 
+ and validation datset of length 6 
+ and test datset of length 8
+2024-05-07 00:54:11,857 - INFO - get_dataset_partition_tf called compelted from data_preprocessing
+2024-05-07 00:54:11,857 - INFO - get_dataset_partition_tf called compelted from data_preprocessing
+2024-05-07 00:54:11,857 - INFO - get_dataset_partition_tf called compelted from data_preprocessing
+2024-05-07 00:54:11,857 - INFO - data tuning get started inside preprocess method under file src/preprocess
+2024-05-07 00:54:11,857 - INFO - data tuning get started inside preprocess method under file src/preprocess
+2024-05-07 00:54:11,857 - INFO - data tuning get started inside preprocess method under file src/preprocess
+2024-05-07 00:56:12,963 - INFO - main function started in main.py file
+2024-05-07 00:56:12,963 - INFO - main function started in main.py file
+2024-05-07 00:56:12,963 - INFO - main function started in main.py file
+2024-05-07 00:56:12,963 - INFO - chatbot get called
+2024-05-07 00:56:12,963 - INFO - chatbot get called
+2024-05-07 00:56:12,963 - INFO - chatbot get called
+2024-05-07 00:56:19,636 - INFO - main function started in main.py file
+2024-05-07 00:56:19,636 - INFO - main function started in main.py file
+2024-05-07 00:56:19,636 - INFO - main function started in main.py file
+2024-05-07 00:56:19,645 - INFO - chatbot get called
+2024-05-07 00:56:19,645 - INFO - chatbot get called
+2024-05-07 00:56:19,645 - INFO - chatbot get called
+2024-05-07 00:56:26,279 - INFO - main function started in main.py file
+2024-05-07 00:56:26,279 - INFO - main function started in main.py file
+2024-05-07 00:56:26,279 - INFO - main function started in main.py file
+2024-05-07 00:56:26,293 - INFO - chatbot get called
+2024-05-07 00:56:26,293 - INFO - chatbot get called
+2024-05-07 00:56:26,293 - INFO - chatbot get called
+2024-05-07 00:56:37,167 - INFO - main function started in main.py file
+2024-05-07 00:56:37,167 - INFO - main function started in main.py file
+2024-05-07 00:56:37,167 - INFO - main function started in main.py file
+2024-05-07 00:56:37,167 - INFO - chatbot get called
+2024-05-07 00:56:37,167 - INFO - chatbot get called
+2024-05-07 00:56:37,167 - INFO - chatbot get called
+2024-05-07 00:56:37,392 - INFO - main function started in main.py file
+2024-05-07 00:56:37,392 - INFO - main function started in main.py file
+2024-05-07 00:56:37,392 - INFO - main function started in main.py file
+2024-05-07 00:56:37,414 - INFO - chatbot get called
+2024-05-07 00:56:37,414 - INFO - chatbot get called
+2024-05-07 00:56:37,414 - INFO - chatbot get called
+2024-05-07 00:57:01,214 - INFO - main function started in main.py file
+2024-05-07 00:57:01,214 - INFO - main function started in main.py file
+2024-05-07 00:57:01,214 - INFO - main function started in main.py file
+2024-05-07 00:57:01,214 - INFO - chatbot get called
+2024-05-07 00:57:01,214 - INFO - chatbot get called
+2024-05-07 00:57:01,214 - INFO - chatbot get called
